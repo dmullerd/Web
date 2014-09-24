@@ -1,0 +1,17 @@
+.container {
+    border: 2px solid darkseagreen;
+}
+
+nav {
+    border: 2px solid crimson;
+    float: left;
+    width: 146px;
+}
+
+section {
+    border: 2px solid orange;
+    margin-left: 150px;
+}
+p {
+    padding: 10px;
+}
